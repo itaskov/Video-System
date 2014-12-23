@@ -1,4 +1,4 @@
 Video-System
 ============
 
-Vide System SPA
+AngularJS Video System SPA
